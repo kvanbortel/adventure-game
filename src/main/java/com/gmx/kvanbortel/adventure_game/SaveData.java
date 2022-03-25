@@ -2,6 +2,7 @@ package com.gmx.kvanbortel.adventure_game;
 
 public class SaveData {
     private String username;
+    //private int playerHealth;
 
     public SaveData() {}
 
